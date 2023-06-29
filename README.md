@@ -18,7 +18,8 @@ Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover.
 
 ## Get in touch :coffee:
 
-- 💬 If you wanna to discuss some java related things and some CPP ; Click on the link below 
+- 💬 If you wanna to discuss some java related things and some CPP ; Click on the link below
+- 💬 And if you wanna create a 3D game , and you need some one ; EmailMe 
 - 📫 How to reach me: [This is My Email](mailto:595875338@qq.com)
 <p align="center"> 
   Visitor count<br>
