@@ -11,8 +11,9 @@ Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover.
 ## Things I am passionate about
 
 - java
-- C/C++
+- C/C++/C#
 - shell
+- Lua/TS
 - Open source :octocat:
 
 ## Get in touch :coffee:
